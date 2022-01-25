@@ -14,9 +14,10 @@
 
 :outbox_tray: 2022 Goals: create a new project and find a new job.
 
- 
-
 ## About me
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bernardofreire&layout"/> <img src="https://github-readme-stats.vercel.app/api?username=bernardofreire&show_icons=true&theme=tokyonight"/>
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bernardofreire)](https://github.com/bernardofreire)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardosfreire/)](https://www.linkedin.com/in/bernardosfreire/)
@@ -30,6 +31,5 @@
 - 
 [![bernardofreire GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardofreire)](https://github.com/bernardofreire/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=bernardofreire&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bernardofreire&layout"/>
+
