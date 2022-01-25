@@ -1,4 +1,7 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=19&center=true&multiline=true&lines=Hello+friend!;My+name+is+Bernardo">
+<div align='center'>
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=19&center=true&multiline=true&lines=Hello+friend!;My+name+is+Bernardo">
+</div>
 
 <br>
 
