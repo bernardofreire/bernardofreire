@@ -32,4 +32,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=bernardofreire&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bernardofreire&layout
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bernardofreire&layout"/>
