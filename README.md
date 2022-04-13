@@ -1,4 +1,4 @@
-## Olá eu sou o Bernardo. Atualmente estou no progresso para aprender programação e tecnologia. 
+## Olá eu sou o Bernardo. Atualmente estou estudando para me tornar um Desenvolvedor Web Full stack . 
 <div align="center">
   <a href="https://github.com/bernardofreire">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bernardofreire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
