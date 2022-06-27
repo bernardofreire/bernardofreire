@@ -1,3 +1,21 @@
+#  Hello, world! 🤟
+
+  - 🌎  My name is Bernardo and i'm **Front-End Developer.**
+
+  - 🧬 Soft Skills: **I am self-taught, proactive, communicative and curious.**
+
+  - 🖥️  Tools:  **Figma, Git, GitHub, Notion, VSCode.**
+ 
+  - 📧  **You can find me here:**  ⤵️
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/bernardosfreire/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+ 
+</div>
+
+
 ## Olá eu sou o Bernardo. Atualmente estou estudando para me tornar um Desenvolvedor Web Full stack . 
 
 Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
