@@ -1,4 +1,8 @@
-#  Hello, world! 🤟
+#  Hello! 🤟
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardosfreire/)](https://www.linkedin.com/in/bernardosfreire/)
+
 
   - 🌎  My name is Bernardo and i'm **Front-End Developer.**
 
