@@ -5,23 +5,16 @@
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://bernardofreire.github.io/portfoliobernardo//)](https://bernardofreire.github.io/portfoliobernardo/)
 [![Gmail Badge](https://img.shields.io/badge/-b.bernardo9815@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.kipper@gmail.com)](mailto:b.bernardo9815@gmail.com)
 
-  - 🌎  My name is Bernardo and i'm **Front-End Developer.**
+## My name is Bernardo Freire
+( React JS | Next JS | Angular | JS | HTML | CSS | Typescript | Styled Components | SQL ) 🚀
 
-  - 🧬  Soft Skills: **I am self-taught, proactive, communicative and curious.**
-
-  - 🖥️  Tools:  **Git, GitHub, Notion, VSCode.**
+- Information system Student
+- Passionate about web development
+- Soft Skills: **I am self-taught, proactive, communicative and curious.**
+-Tools:  **Git, GitHub, Notion, VSCode.**
  
-  - 📧  **You can find me here:**  ⤵️
   
-  <div> 
-  <a href="https://www.linkedin.com/in/bernardosfreire/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
- <a href = "mailto:b.bernardo9815@gmail.com">
-	 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- </a>	
- 
-</div>
+
 
 <div align="center">
   <h2> 🖥️ Hard skills </h2>
