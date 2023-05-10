@@ -11,7 +11,8 @@
 - Information system Student
 - Passionate about web development
 - Soft Skills: **I am self-taught, proactive, communicative and curious.**
--Tools:  **Git, GitHub, Notion, VSCode.**
+- Tools:  **Git, GitHub, Notion, VSCode.**
+- Always thirst for learning, knowledge and experience
  
   
 
