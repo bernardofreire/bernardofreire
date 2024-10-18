@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-b.bernardo9815@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.kipper@gmail.com)](mailto:b.bernardo9815@gmail.com)
 
 ## My name is Bernardo Freire
-( React JS | Next JS | Shadcn Ui | Typescript | tailwind CSS | Prisma | SQL ) 🚀
+( React JS | Next JS | Shadcn Ui | Typescript | tailwind CSS | Prisma | Fastify | SQL ) 🚀
 
 - Information system Student
 - Passionate about web development
